@@ -5,14 +5,14 @@
 
     <data>
         <import type="android.view.View"/>
-        <import type="com.shizq.bika.utils.TimeUtil"/>
+        <import type="com.muxiyun2.bika.utils.TimeUtil"/>
         <variable
             name="clickListener"
-            type="com.shizq.bika.ui.comicinfo.ComicInfoActivity.ClickListener" />
+            type="com.muxiyun2.bika.ui.comicinfo.ComicInfoActivity.ClickListener" />
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.comicinfo.ComicInfoViewModel" />
+            type="com.muxiyun2.bika.ui.comicinfo.ComicInfoViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

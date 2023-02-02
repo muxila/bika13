@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.history.HistoryViewModel" />
+            type="com.muxiyun2.bika.ui.history.HistoryViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

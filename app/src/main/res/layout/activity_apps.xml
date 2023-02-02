@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.apps.AppsViewModel" />
+            type="com.muxiyun2.bika.ui.apps.AppsViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

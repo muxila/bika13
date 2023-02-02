@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.signup.SignUpViewModel" />
+            type="com.muxiyun2.bika.ui.signup.SignUpViewModel" />
     </data>
 
     <RelativeLayout

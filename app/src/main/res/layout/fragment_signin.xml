@@ -5,10 +5,10 @@
     <data>
         <variable
             name="clickListener"
-            type="com.shizq.bika.ui.signin.SignInFragment.ClickListener" />
+            type="com.muxiyun2.bika.ui.signin.SignInFragment.ClickListener" />
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.signin.SignInViewModel" />
+            type="com.muxiyun2.bika.ui.signin.SignInViewModel" />
     </data>
 
     <RelativeLayout

@@ -4,7 +4,7 @@
         <data>
             <variable
                 name="m"
-                type="com.shizq.bika.bean.CategoriesBean.Category" />
+                type="com.muxiyun2.bika.bean.CategoriesBean.Category" />
         </data>
 
     <RelativeLayout

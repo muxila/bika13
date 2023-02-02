@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.shizq.bika">
+    package="com.muxiyun2.bika">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -20,7 +20,7 @@
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
 
     <application
-        android:name=".MyApp"
+        android:name="com.muxiyun2.bika.MyApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -33,7 +33,7 @@
         tools:targetApi="s">
 
         <activity
-            android:name=".ui.splash.SplashActivity"
+            android:name="com.muxiyun2.bika.ui.splash.SplashActivity"
             android:exported="true"
             android:theme="@style/SplashTheme">
             <intent-filter>
@@ -41,57 +41,57 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.account.AccountActivity"/>
+        <activity android:name="com.muxiyun2.bika.ui.account.AccountActivity"/>
         <activity
-            android:name=".ui.main.MainActivity">
+            android:name="com.muxiyun2.bika.ui.main.MainActivity">
         </activity>
         <activity
-            android:name=".ui.history.HistoryActivity"
+            android:name="com.muxiyun2.bika.ui.history.HistoryActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.notifications.NotificationsActivity"
+            android:name="com.muxiyun2.bika.ui.notifications.NotificationsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.mycomments.MyCommentsActivity"
+            android:name="com.muxiyun2.bika.ui.mycomments.MyCommentsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.settings.SettingsActivity"
+            android:name="com.muxiyun2.bika.ui.settings.SettingsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.search.SearchActivity"
+            android:name="com.muxiyun2.bika.ui.search.SearchActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.comiclist.ComicListActivity"
+            android:name="com.muxiyun2.bika.ui.comiclist.ComicListActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.leaderboard.LeaderboardActivity"
+            android:name="com.muxiyun2.bika.ui.leaderboard.LeaderboardActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.collections.CollectionsActivity"
+            android:name="com.muxiyun2.bika.ui.collections.CollectionsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.comment.CommentsActivity"
+            android:name="com.muxiyun2.bika.ui.comment.CommentsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.comicinfo.ComicInfoActivity"
+            android:name="com.muxiyun2.bika.ui.comicinfo.ComicInfoActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.reader.ReaderActivity"
+            android:name="com.muxiyun2.bika.ui.reader.ReaderActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.games.GamesActivity"
+            android:name="com.muxiyun2.bika.ui.games.GamesActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.games.GameInfoActivity"
+            android:name="com.muxiyun2.bika.ui.games.GameInfoActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.apps.AppsActivity"
+            android:name="com.muxiyun2.bika.ui.apps.AppsActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.chat.ChatActivity"
+            android:name="com.muxiyun2.bika.ui.chat.ChatActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.user.UserActivity"
+            android:name="com.muxiyun2.bika.ui.user.UserActivity"
             android:exported="false" />
 
     </application>

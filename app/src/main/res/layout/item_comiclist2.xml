@@ -5,7 +5,7 @@
 
         <variable
             name="m"
-            type="com.shizq.bika.bean.ComicListBean2.Comics" />
+            type="com.muxiyun2.bika.bean.ComicListBean2.Comics" />
     </data>
 
     <LinearLayout

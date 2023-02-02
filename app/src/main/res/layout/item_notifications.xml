@@ -4,13 +4,13 @@
 
     <data>
 
-        <import type="com.shizq.bika.utils.TimeUtil" />
+        <import type="com.muxiyun2.bika.utils.TimeUtil" />
 
         <import type="android.view.View" />
 
         <variable
             name="m"
-            type="com.shizq.bika.bean.NotificationsBean.Notifications.Doc" />
+            type="com.muxiyun2.bika.bean.NotificationsBean.Notifications.Doc" />
     </data>
 
     <RelativeLayout

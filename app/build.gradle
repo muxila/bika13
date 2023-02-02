@@ -9,7 +9,7 @@ android {
     compileSdk 33
     buildToolsVersion '33.0.0'
     defaultConfig {
-        applicationId "com.shizq.bika"
+        applicationId "com.muxiyun2.bika"
         minSdk 24 //最低支持Android7.0
         targetSdk 33
         versionCode 4

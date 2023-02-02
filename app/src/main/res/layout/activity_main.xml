@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.main.MainViewModel" />
+            type="com.muxiyun2.bika.ui.main.MainViewModel" />
     </data>
 
     <androidx.drawerlayout.widget.DrawerLayout

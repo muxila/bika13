@@ -48,16 +48,16 @@
             app:title="应用信息">
             <intent
                 android:action="android.settings.APPLICATION_DETAILS_SETTINGS"
-                android:data="package:com.shizq.bika" />
+                android:data="package:com.muxiyun2.bika" />
         </Preference>
 
         <Preference
-            app:icon="@drawable/ic_github"
-            app:summary="在GitHub上查看"
-            app:title="GitHub">
+            app:icon="@drawable/maxapp"
+            app:summary="下载更多好玩软件"
+            app:title="MAX软件库">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://github.com/shizq123/BIKA" />
+                android:data="http://dev.rubaoo.com/TimeDiaryV2/s/Mjh2dHE=" />
         </Preference>
 
     </PreferenceCategory>

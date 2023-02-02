@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.games.GamesViewModel" />
+            type="com.muxiyun2.bika.ui.games.GamesViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

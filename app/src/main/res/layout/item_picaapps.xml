@@ -5,7 +5,7 @@
 
         <variable
             name="m"
-            type="com.shizq.bika.bean.PicaAppsBean.App" />
+            type="com.muxiyun2.bika.bean.PicaAppsBean.App" />
     </data>
 
     <com.google.android.material.card.MaterialCardView

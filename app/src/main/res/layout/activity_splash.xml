@@ -3,7 +3,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.splash.SplashViewModel" />
+            type="com.muxiyun2.bika.ui.splash.SplashViewModel" />
     </data>
     <LinearLayout
         android:id="@+id/load_layout"

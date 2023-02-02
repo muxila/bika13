@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.search.SearchViewModel" />
+            type="com.muxiyun2.bika.ui.search.SearchViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

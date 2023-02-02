@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.leaderboard.LeaderboardDayViewModel" />
+            type="com.muxiyun2.bika.ui.leaderboard.LeaderboardDayViewModel" />
     </data>
 
     <RelativeLayout

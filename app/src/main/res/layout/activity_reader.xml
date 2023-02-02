@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.reader.ReaderViewModel" />
+            type="com.muxiyun2.bika.ui.reader.ReaderViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -31,7 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.shizq.bika.widget.PageIndicatorTextView
+            <com.muxiyun2.bika.widget.PageIndicatorTextView
                 android:id="@+id/page_number"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

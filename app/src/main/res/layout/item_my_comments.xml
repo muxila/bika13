@@ -4,12 +4,12 @@
 
     <data>
 
-        <import type="com.shizq.bika.utils.TimeUtil" />
+        <import type="com.muxiyun2.bika.utils.TimeUtil" />
         <import type="android.view.View" />
 
         <variable
             name="m"
-            type="com.shizq.bika.bean.MyCommentsBean.Comments.Doc" />
+            type="com.muxiyun2.bika.bean.MyCommentsBean.Comments.Doc" />
     </data>
     <RelativeLayout
         android:layout_width="match_parent"

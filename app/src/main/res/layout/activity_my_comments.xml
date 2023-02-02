@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.mycomments.MyCommentsViewModel" />
+            type="com.muxiyun2.bika.ui.mycomments.MyCommentsViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

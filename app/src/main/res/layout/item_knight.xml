@@ -5,7 +5,7 @@
 
         <variable
             name="m"
-            type="com.shizq.bika.bean.KnightBean.Users" />
+            type="com.muxiyun2.bika.bean.KnightBean.Users" />
     </data>
 
     <com.google.android.material.card.MaterialCardView

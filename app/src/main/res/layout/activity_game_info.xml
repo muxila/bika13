@@ -6,11 +6,11 @@
 
         <variable
             name="clickListener"
-            type="com.shizq.bika.ui.games.GameInfoActivity.ClickListener" />
+            type="com.muxiyun2.bika.ui.games.GameInfoActivity.ClickListener" />
 
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.games.GameInfoViewModel" />
+            type="com.muxiyun2.bika.ui.games.GameInfoViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

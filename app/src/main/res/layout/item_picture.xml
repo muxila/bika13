@@ -3,7 +3,7 @@
     <data>
         <variable
             name="m"
-            type="com.shizq.bika.bean.ComicsPictureBean.Pages.Docs" />
+            type="com.muxiyun2.bika.bean.ComicsPictureBean.Pages.Docs" />
     </data>
 
     <RelativeLayout

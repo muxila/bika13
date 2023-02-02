@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.shizq.bika.ui.account.AccountViewModel" />
+            type="com.muxiyun2.bika.ui.account.AccountViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

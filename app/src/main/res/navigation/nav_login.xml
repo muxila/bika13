@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/signInFragment"
-        android:name="com.shizq.bika.ui.signin.SignInFragment"
+        android:name="com.muxiyun2.bika.ui.signin.SignInFragment"
         android:label="SignInFragment"
         tools:layout="@layout/fragment_signin">
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/signUpFragment"
-        android:name="com.shizq.bika.ui.signup.SignUpFragment"
+        android:name="com.muxiyun2.bika.ui.signup.SignUpFragment"
         android:label="SignUpFragment"
         tools:layout="@layout/fragment_signup">
         <action
